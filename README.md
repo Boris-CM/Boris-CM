@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Node - Express - MySQL - API's & React
 - 💞️ I’m looking to collaborate on any project that accepts a junior
-- 📫 How to reach me bgcolodro@gmail.com
+- 📫 Be in touch bgcolodro@gmail.com
 
 <!---
 Boris-CM/Boris-CM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
